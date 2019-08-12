@@ -1,0 +1,2 @@
+{:paths ["src/main/clojure" "classes"]
+ :deps {org.clojure/clojure {:mvn/version "1.10.1"}}}
